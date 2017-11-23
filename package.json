@@ -1,0 +1,29 @@
+{
+  "name": "webtask-2048-ai",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "curl": "^0.1.4",
+    "edge": "^7.10.1",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "request": "^2.81.0",
+    "webtask-tools": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurs1kh/webtask-2048-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurs1kh/webtask-2048-ai/issues"
+  },
+  "homepage": "https://github.com/gurs1kh/webtask-2048-ai#readme"
+}
